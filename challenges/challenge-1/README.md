@@ -1,6 +1,6 @@
 # 01 HTML CSS Git: Code Refactor
 
-Starter code: [my-work](../my-work)
+Starter code: [my-work](../challenge-1/my-work/)
 
 ## Your Task
 
