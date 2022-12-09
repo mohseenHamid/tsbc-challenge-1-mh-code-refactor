@@ -33,10 +33,6 @@ nav {
 	font-size: 20px;
 }
 
-#nav-list {
-	list-style-type: none;
-}
-
 .nav-item {
 	display: inline-block;
 	margin-left: 25px;
@@ -189,7 +185,7 @@ p {
 	font-size: 36px;
 }
 
-.footer {
+footer {
 	padding: 30px;
 	clear: both;
 	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
