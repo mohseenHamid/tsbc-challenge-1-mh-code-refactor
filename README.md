@@ -16,9 +16,9 @@ SO THAT our own site is optimized for search engines
 
 ## Acceptance Criteria
 
-Your website must meet accessibility standards. You can achieve this completing the following:
+The website must fulfil the following criteria to meet accessibility standards:
 
-- Semantic HTML elements can be found throughout the source code
+- Semantic HTML elements utilised throughout the source code
 - HTML elements follow a logical structure independent of styling and positioning
 - Image and icon elements contain accessible `alt` attributes
 - Heading attributes fall in sequential order
@@ -26,11 +26,13 @@ Your website must meet accessibility standards. You can achieve this completing 
 
 ## Mock-Up
 
-The following image shows the web application's appearance:
-![The Horiseon webpage includes:
+The Horiseon webpage includes:
 - a header containing a page title + navigation bar
 - a cover image
-- a main body containing cards with text and images, at the bottom of the page.]
+- a main body containing cards with text and images
+- a footer containing copyright info
+
+The following image shows the web application's appearance:
 
 ## Credits
 
