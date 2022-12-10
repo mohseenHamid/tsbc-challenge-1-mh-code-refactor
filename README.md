@@ -32,7 +32,8 @@ The Horiseon webpage includes:
 - a main body containing cards with text and images
 - a footer containing copyright info
 
-The following image shows the web application's appearance:
+The following link takes you to the GitHub page deployment of the website:
+- https://mohseenhamid.github.io/tsbc-challenge-1-mh/
 
 ## Credits
 
