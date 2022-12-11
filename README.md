@@ -26,7 +26,7 @@ The website must fulfil the following criteria to meet accessibility standards:
 
 ## Usage
 
-Static webpage that contains a navigation bar in the header that contains links to the main content sections on the page. Click on the links to navigate to the respective sections.
+This is a static webpage that contains a navigation bar in the header. Click on the links to navigate to the respective content sections on the page.
 
 ## Mock-Up
 
