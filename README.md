@@ -24,15 +24,21 @@ The website must fulfil the following criteria to meet accessibility standards:
 - Heading attributes fall in sequential order
 - Title elements contain a concise, descriptive title
 
+## Usage
+
+Static webpage that contains a navigation bar in the header that contains links to the main content sections on the page. Click on the links to navigate to the respective sections.
+
 ## Mock-Up
 
 The Horiseon webpage includes:
+
 - a header containing a page title + navigation bar
 - a cover image
 - a main body containing cards with text and images
 - a footer containing copyright info
 
 The following link takes you to the GitHub page deployment of the website:
+
 - https://mohseenhamid.github.io/tsbc-challenge-1-mh/
 
 ## Credits
