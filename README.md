@@ -1,6 +1,4 @@
-# tsbc-challenge-1
-
-Week 1 challenge assignment
+# Week 1 Challenge Assignment: HTML, CSS, Git Code Refactor
 
 ## Description
 
