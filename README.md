@@ -1,4 +1,4 @@
-# Week 1 Challenge Assignment: HTML, CSS, Git Code Refactor
+# Week 1 Challenge: HTML, CSS, Git Code Refactor
 
 ## Description
 
