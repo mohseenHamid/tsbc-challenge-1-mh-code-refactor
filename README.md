@@ -2,7 +2,7 @@
 
 ## Description
 
-The task was to refactor code to make the webpage more accessible. This was done by incorporating alt image attributes, semantic HTML tags, and refining the overall codebase (HTML + CSS) to make it more strucutred and coherent.
+The task was to refactor code to make the webpage more accessible. This was done by incorporating alt image attributes, semantic HTML tags, and refining the overall codebase (HTML + CSS) to make it more structured and coherent.
 
 ## User Story
 
@@ -41,11 +41,7 @@ Please see below a screenshot of the webpage:
 
 The following link takes you to the GitHub Pages deployment of the website:
 
-- https://mohseenhamid.github.io/tsbc-challenge-1-mh/
-
-## Credits
-
-N/A
+- https://mohseenhamid.github.io/tsbc-challenge-1-mh-code-refactor/
 
 ## License
 
